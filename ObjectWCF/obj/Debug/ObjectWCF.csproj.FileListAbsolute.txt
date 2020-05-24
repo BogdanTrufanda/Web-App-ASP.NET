@@ -1,0 +1,14 @@
+D:\Fac\Tsp.Net\Proiect\ObjectWCF\bin\Debug\ObjectWCF.dll
+D:\Fac\Tsp.Net\Proiect\ObjectWCF\bin\Debug\ObjectWCF.pdb
+D:\Fac\Tsp.Net\Proiect\ObjectWCF\bin\Debug\Project1.dll
+D:\Fac\Tsp.Net\Proiect\ObjectWCF\bin\Debug\System.ServiceModel.Primitives.dll
+D:\Fac\Tsp.Net\Proiect\ObjectWCF\bin\Debug\EntityFramework.dll
+D:\Fac\Tsp.Net\Proiect\ObjectWCF\bin\Debug\Project1.pdb
+D:\Fac\Tsp.Net\Proiect\ObjectWCF\bin\Debug\Project1.dll.config
+D:\Fac\Tsp.Net\Proiect\ObjectWCF\bin\Debug\System.ServiceModel.Primitives.pdb
+D:\Fac\Tsp.Net\Proiect\ObjectWCF\bin\Debug\EntityFramework.xml
+D:\Fac\Tsp.Net\Proiect\ObjectWCF\obj\Debug\ObjectWCF.csprojAssemblyReference.cache
+D:\Fac\Tsp.Net\Proiect\ObjectWCF\obj\Debug\ObjectWCF.csproj.CoreCompileInputs.cache
+D:\Fac\Tsp.Net\Proiect\ObjectWCF\obj\Debug\ObjectWCF.csproj.CopyComplete
+D:\Fac\Tsp.Net\Proiect\ObjectWCF\obj\Debug\ObjectWCF.dll
+D:\Fac\Tsp.Net\Proiect\ObjectWCF\obj\Debug\ObjectWCF.pdb

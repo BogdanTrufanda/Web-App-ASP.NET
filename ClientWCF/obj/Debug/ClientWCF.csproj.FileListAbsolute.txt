@@ -1,0 +1,10 @@
+D:\Fac\Tsp.Net\Proiect\ClientWCF\bin\Debug\ClientWCF.exe.config
+D:\Fac\Tsp.Net\Proiect\ClientWCF\bin\Debug\ClientWCF.exe
+D:\Fac\Tsp.Net\Proiect\ClientWCF\bin\Debug\ClientWCF.pdb
+D:\Fac\Tsp.Net\Proiect\ClientWCF\obj\Debug\ClientWCF.csprojAssemblyReference.cache
+D:\Fac\Tsp.Net\Proiect\ClientWCF\obj\Debug\ClientWCF.Form1.resources
+D:\Fac\Tsp.Net\Proiect\ClientWCF\obj\Debug\ClientWCF.Properties.Resources.resources
+D:\Fac\Tsp.Net\Proiect\ClientWCF\obj\Debug\ClientWCF.csproj.GenerateResource.cache
+D:\Fac\Tsp.Net\Proiect\ClientWCF\obj\Debug\ClientWCF.csproj.CoreCompileInputs.cache
+D:\Fac\Tsp.Net\Proiect\ClientWCF\obj\Debug\ClientWCF.exe
+D:\Fac\Tsp.Net\Proiect\ClientWCF\obj\Debug\ClientWCF.pdb

@@ -1,0 +1,22 @@
+﻿@page
+@model WebApplication1.Pages.proprietatiModel
+@{
+    ViewData["Title"] = "Properties";
+}
+<br />
+<br />
+<center><h1>Properties</h1></center>
+<br />
+<br />
+
+<ol>
+    @foreach (var item in Model.PGO[0].Prop)
+    {
+        <div>
+
+            <li>@Html.DisplayFor(modelItem => item)</li>
+            <br />
+
+        </div>
+    }
+</ol>

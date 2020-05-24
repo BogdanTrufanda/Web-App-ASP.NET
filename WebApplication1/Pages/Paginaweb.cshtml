@@ -1,0 +1,81 @@
+﻿@page
+@model WebApplication1.Pages.PaginawebModel
+@{
+    ViewData["Title"] = "Paginaweb";
+}
+<br />
+<br />
+<h3>𝑺𝒆𝒂𝒓𝒄𝒉</h3>
+<form action="afisare">
+    <p>
+        What you want to search?: <input type="text" asp-for="SearchString" />
+        <input type="submit" value="Search" />
+    </p>
+</form>
+<br />
+<br />
+<h1>Phodoes database</h1>
+<br />
+<br />
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.PGO[0].justID)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PGO[0].Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PGO[0].Path)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PGO[0].Size)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PGO[0].cDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PGO[0].mDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PGO[0].Resolution)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PGO[0].Extension)
+            </th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (var item in Model.PGO)
+        {
+            <tr style="font-size:small">
+                <td>
+                    @Html.DisplayFor(modelItem => item.justID)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Path)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Size)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.cDate)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.mDate)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Extension)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Resolution)
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
